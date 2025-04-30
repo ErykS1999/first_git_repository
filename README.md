@@ -1,4 +1,4 @@
-# MY FIRST GIT REPOSITORY PUSH!
+# HOW TO PUSH FILES USING GIT!
 
 #### I am going to explain the steps I took to make the push successfull!
 
